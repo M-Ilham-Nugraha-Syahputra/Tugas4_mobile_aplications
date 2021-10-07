@@ -1,5 +1,5 @@
-# Nama : M. Ilham Nugraha Syahputra
-# NIM : E41202192
+Nama : M. Ilham Nugraha Syahputra
+NIM : E41202192
 1. RecyclerView
 <img width="205" alt="1" src="https://user-images.githubusercontent.com/80625504/136396513-084a0308-cad8-4d1c-93fc-7cc0cb995434.PNG">
 <img width="210" alt="2" src="https://user-images.githubusercontent.com/80625504/136396532-57136d59-4794-4ce1-a552-f4f4e1c3ffe1.PNG">
