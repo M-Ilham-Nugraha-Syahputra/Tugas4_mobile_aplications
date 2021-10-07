@@ -1,10 +1,13 @@
-# 1. RecyclerView
-<img width="208" alt="1" src="https://user-images.githubusercontent.com/80625504/136394911-1aeec4f8-832c-4ba8-90f3-84539fcc8334.PNG">
-# 2.<img width="195" alt="list" src="https://user-images.githubusercontent.com/80625504/136395678-74bd0a24-5dbf-4ea7-a108-8ffb6cd13f2f.PNG">
-
-<img width="207" alt="2" src="https://user-images.githubusercontent.com/80625504/136394934-f0f39875-c176-4392-a7ef-37ec1b36755c.PNG">
-<img width="207" alt="3" src="https://user-images.githubusercontent.com/80625504/136394940-dbda1bca-e2eb-4fcd-839a-b852d6c334a3.PNG">
-<img width="205" alt="4" src="https://user-images.githubusercontent.com/80625504/136394943-ef9e65c6-fdb7-4ae8-aa6e-e3def08d1cbb.PNG">
-<img width="210" alt="5" src="https://user-images.githubusercontent.com/80625504/136394947-95c1e06a-29ea-4ece-a143-3da3cea2344d.PNG">
 # Nama : M. Ilham Nugraha Syahputra
 # NIM : E41202192
+# 1. RecyclerView
+<img width="205" alt="1" src="https://user-images.githubusercontent.com/80625504/136396513-084a0308-cad8-4d1c-93fc-7cc0cb995434.PNG">
+<img width="210" alt="2" src="https://user-images.githubusercontent.com/80625504/136396532-57136d59-4794-4ce1-a552-f4f4e1c3ffe1.PNG">
+# 2. selection widget
+<img width="207" alt="3" src="https://user-images.githubusercontent.com/80625504/136396539-858618bc-7671-4e97-8272-b1b39d513102.PNG">
+# 3. Auto complete text view
+<img width="208" alt="4" src="https://user-images.githubusercontent.com/80625504/136396544-3ee5c3eb-3882-4fb5-972f-c24b2dbeec4a.PNG">
+# 4. Spinner
+<img width="207" alt="5" src="https://user-images.githubusercontent.com/80625504/136396549-f25c6beb-b003-4e1d-9d01-67f169671c16.PNG">
+# 5. ListView
+<img width="195" alt="6" src="https://user-images.githubusercontent.com/80625504/136396551-283ba345-8c83-4336-b119-7eee6b4cf961.PNG">
