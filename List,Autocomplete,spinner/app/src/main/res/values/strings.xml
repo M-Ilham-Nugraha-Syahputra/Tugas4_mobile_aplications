@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">widget</string>
+    <string-array name="Negara">
+        <item>Indonesia</item>
+        <item>Filipina</item>
+        <item>malaysia</item>
+        <item>Hongkong</item>
+        <item>Thailand</item>
+    </string-array>
+</resources>
